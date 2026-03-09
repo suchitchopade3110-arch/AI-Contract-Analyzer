@@ -1,4 +1,5 @@
-# 🧠 AI Contract Risk Intelligence
+# NyraAI 🧠 
+AI Contract Risk Intelligence
 
 
 **Privacy-First • Explainable • Modular AI Contract Analyzer**
