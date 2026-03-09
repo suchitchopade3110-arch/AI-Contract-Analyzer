@@ -1,8 +1,5 @@
 # NyraAI 🧠 
 AI Contract Risk Intelligence
-<img width="1905" height="1048" alt="image" src="https://github.com/user-attachments/assets/557ab8b7-bfe0-4fd1-9d26-e651cab9e81d" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8bc01199-b027-4fba-8b1d-09614d1455b6" />
 
 
 **Privacy-First • Explainable • Modular AI Contract Analyzer**
@@ -15,8 +12,9 @@ Upload a contract → Receive **risk insights, clause explanations, and improvem
 
 # 🚀 Demo
 
-Coming Soon
+<img width="1905" height="1048" alt="image" src="https://github.com/user-attachments/assets/557ab8b7-bfe0-4fd1-9d26-e651cab9e81d" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8bc01199-b027-4fba-8b1d-09614d1455b6" /> 
 ---
 
 # 📌 Key Features
